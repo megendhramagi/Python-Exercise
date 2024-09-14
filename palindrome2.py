@@ -1,4 +1,4 @@
-#other method to check palindrome
+#simple method to check palindrome
 a=input("Enter some something \n :")
 a1=""
 
